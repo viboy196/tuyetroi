@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(15,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(22,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(23,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(24,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(111,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(113,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(121,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(123,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(174,95): warning C4305: '+=': truncation from 'double' to 'float'
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(182,4): warning C4551: function call missing argument list
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(304,20): warning C4305: '-=': truncation from 'double' to 'float'
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(307,20): warning C4305: '+=': truncation from 'double' to 'float'
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(310,19): warning C4305: '+=': truncation from 'double' to 'float'
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(313,19): warning C4305: '-=': truncation from 'double' to 'float'
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(316,19): warning C4305: '-=': truncation from 'double' to 'float'
+D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Tuyetroiopengl\Source.cpp(319,19): warning C4305: '+=': truncation from 'double' to 'float'
+  Tuyetroiopengl.vcxproj -> D:\anhdan\STUDY\k8\mô hình hóa 3d\Tuyetroiopengl\Debug\Tuyetroiopengl.exe
